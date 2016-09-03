@@ -18,5 +18,8 @@
     "node-libs-browser": "^0.5.3",
     "strip-loader": "^0.1.2",
     "webpack": "^1.12.9"
+  },
+  "dependencies": {
+    "core-js": "^2.4.1"
   }
 }
